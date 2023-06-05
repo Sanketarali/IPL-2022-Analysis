@@ -13,8 +13,9 @@ plotly library<br>
 <h3>The dataset contains all the information needed to summarize the story of IPL 2022 so far. So let’s start by looking at the number of matches won by each team in IPL 2022:</h3><br>
 
 <h3>Match Winner</h3>
+![match winner](https://github.com/Sanketarali/IPL-2022-Analysis/assets/110754364/f44fd2b8-5d23-46be-81af-1d04115d1f13)
 
-<h3>Venue</h3>
+<h3>Venue</h3> ![venue](https://github.com/Sanketarali/IPL-2022-Analysis/assets/110754364/7359f075-a11f-4d1a-b58f-c36eaa8db434)
 
 <h3>Player of the Match</h3>
 
