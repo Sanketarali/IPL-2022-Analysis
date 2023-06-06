@@ -49,6 +49,15 @@ plotly library<br>
 
 ![best bowling](https://github.com/Sanketarali/IPL-2022-Analysis/assets/110754364/c02b3737-4696-4ebf-9841-99e6c3444ed8)
 
+<h3>Number of Matches Won By Defending Or Chasing</h3>
+
+
+<h3>Toss Decision</h3>
+
+
+<h3>Fall of Wickets by Defending or Chasing</h3>
+
+
 
 
 
