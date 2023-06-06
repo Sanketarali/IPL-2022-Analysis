@@ -51,12 +51,15 @@ plotly library<br>
 
 <h3>Number of Matches Won By Defending Or Chasing</h3>
 
+![matches won by](https://github.com/Sanketarali/IPL-2022-Analysis/assets/110754364/f038ec0f-28ac-4042-8b83-0c7fd97cbec1)
 
 <h3>Toss Decision</h3>
 
+![Toss decision](https://github.com/Sanketarali/IPL-2022-Analysis/assets/110754364/3e8cf6c5-c6c4-4cf1-9332-8e0525c31b56)
 
 <h3>Fall of Wickets by Defending or Chasing</h3>
 
+![wickets](https://github.com/Sanketarali/IPL-2022-Analysis/assets/110754364/03749142-064f-493b-b5ec-669621d5023e)
 
 
 
